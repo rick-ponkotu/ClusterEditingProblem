@@ -1,0 +1,9 @@
+graph g{
+u [shape=circle];
+v [shape=circle];
+w [shape=circle];
+
+u -- v;
+u -- w [label = "s(uw)=1"];
+v -- w [label = "s(vw)=-2", style = dotted];
+}

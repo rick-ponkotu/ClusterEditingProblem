@@ -1,0 +1,35 @@
+../instances/exact/exact001.gr 3 3 3
+../instances/exact/exact003.gr 36.5 50 45
+../instances/exact/exact005.gr 45 55 46
+../instances/exact/exact007.gr 73.5 110 91
+../instances/exact/exact009.gr 87.5 116 100
+../instances/exact/exact011.gr 81 97 81
+../instances/exact/exact013.gr TLE
+../instances/exact/exact015.gr TLE
+../instances/exact/exact001.gr 3 0.00398
+1
+../instances/exact/exact003.gr 45 0.425043
+13995
+../instances/exact/exact005.gr 46 0.379447
+7094
+../instances/exact/exact007.gr 91 11.6987
+230006
+../instances/exact/exact009.gr 100 53.2234
+1011056
+../instances/exact/exact011.gr 81 0.367378
+195
+../instances/exact/exact013.gr TLE
+../instances/exact/exact015.gr TLE
+../instances/exact/exact017.gr TLE
+../instances/exact/exact019.gr TLE
+../instances/exact/exact021.gr TLE
+../instances/exact/exact023.gr TLE
+../instances/exact/exact025.gr TLE
+../instances/exact/exact027.gr TLE
+../instances/exact/exact029.gr TLE
+../instances/exact/exact001.gr 3 0.003585
+1
+../instances/exact/exact003.gr 42 1.68718
+61641
+../instances/exact/exact005.gr 46 2.34844
+61317

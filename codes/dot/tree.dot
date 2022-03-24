@@ -1,0 +1,32 @@
+digraph g{
+1 [shape=circle, color=red];
+2 [shape=circle];
+3 [shape=circle];
+4 [shape=circle, color=red];
+5 [shape=circle, color=red];
+6 [shape=circle];
+7 [shape=circle, color=red];
+8 [shape=circle, color=red];
+9 [shape=circle];
+10 [shape=circle];
+11 [shape=circle, color=red];
+12 [shape=circle, color=red];
+13 [shape=circle];
+14 [shape=circle, color=red];
+15 [shape=circle, color=red];
+
+1 -> 2;
+1 -> 9 [style=dotted];
+2 -> 3;
+2 -> 6 [style=dotted];
+3 -> 4;
+3 -> 5 [style=dotted];
+6 -> 7;
+6 -> 8 [style=dotted];
+9 -> 10;
+9 -> 13 [style=dotted];
+10 -> 11;
+10 -> 12 [style=dotted];
+13 -> 14;
+13 -> 15 [style=dotted];
+}

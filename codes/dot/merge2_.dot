@@ -1,0 +1,6 @@
+graph g{
+uv [shape=circle];
+
+uv -- w [label = "s(uw)+s(vw)"];
+uv -- w [style = dotted];
+}

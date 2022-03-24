@@ -1,0 +1,1 @@
+int random_pivot(Graph& G, const Graph& G_orig, std::vector <edge>& sol);

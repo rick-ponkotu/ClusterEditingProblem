@@ -1,0 +1,8 @@
+graph g{
+      edge [
+    labeldistance = 10
+  ];
+uv [shape=circle, label="u'"];
+
+uv -- w [label = "s(uw)+s(vw)=1"];
+}

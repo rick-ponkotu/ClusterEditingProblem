@@ -1,0 +1,1 @@
+int heuristic_branching(Graph& G, const Graph& G_orig, int max_obj, std::vector <edge>& sol, int rec_depth, std::vector<std::vector<int>>& uv, std::vector<std::vector<double>> lp_sol);

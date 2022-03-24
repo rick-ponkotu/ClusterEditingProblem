@@ -1,0 +1,21 @@
+graph g{
+layout = dot
+
+u [shape=circle];
+v [shape=circle];
+w [shape=circle];
+x [shape=circle];
+y [shape=circle];
+
+u -- v [label = "1"];
+u -- w [label = "2"];
+u -- x [label = "1"];
+
+v -- w [label = "-1", style = dotted];
+v -- x [label = "-∞", style = dotted];
+
+w -- x [label = "5"];
+w -- y [label = "1"];
+
+x -- y [label = "-5", style = dotted];
+}

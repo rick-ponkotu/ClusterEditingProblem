@@ -1,0 +1,101 @@
+# input_file_name random_pivot_obj cost_of_reduction num_nodes_before_reduction num_nodes_after_reduction
+../instances/heur/heur001.gr 22 0 10 10
+../instances/heur/heur003.gr 2486 0 120 120
+../instances/heur/heur005.gr 3159 0 160 160
+../instances/heur/heur007.gr 6910 0 200 200
+../instances/heur/heur009.gr 902 0 250 235
+../instances/heur/heur011.gr 2860 0 250 250
+../instances/heur/heur013.gr 7136 0 250 250
+../instances/heur/heur015.gr 9339 0 300 300
+../instances/heur/heur017.gr 14326 0 300 300
+../instances/heur/heur019.gr 10816 0 300 300
+../instances/heur/heur021.gr 6822 0 320 320
+../instances/heur/heur023.gr 7778 0 329 314
+../instances/heur/heur025.gr 7804 0 329 328
+../instances/heur/heur027.gr 1411 0 330 330
+../instances/heur/heur029.gr 2859 0 330 330
+../instances/heur/heur031.gr 5425 0 330 330
+../instances/heur/heur033.gr 9642 0 330 330
+../instances/heur/heur035.gr 4145 0 345 345
+../instances/heur/heur037.gr 10350 0 347 347
+../instances/heur/heur039.gr 10594 0 361 360
+../instances/heur/heur041.gr 6576 0 361 361
+../instances/heur/heur043.gr 11583 0 374 374
+../instances/heur/heur045.gr 8072 0 391 362
+../instances/heur/heur047.gr 21157 0 391 391
+../instances/heur/heur049.gr 20339 0 400 400
+../instances/heur/heur051.gr 10102 0 400 400
+../instances/heur/heur053.gr 14108 0 400 400
+../instances/heur/heur055.gr 5993 0 449 449
+../instances/heur/heur057.gr 4187 0 491 482
+../instances/heur/heur059.gr 22003 0 491 491
+../instances/heur/heur061.gr 37261 0 500 500
+../instances/heur/heur063.gr 37769 0 500 500
+../instances/heur/heur065.gr 39598 0 500 500
+../instances/heur/heur067.gr 3955 0 533 507
+../instances/heur/heur069.gr 3749 0 551 443
+../instances/heur/heur071.gr 18873 0 551 551
+../instances/heur/heur073.gr 8676 0 601 601
+../instances/heur/heur075.gr 3581 0 620 560
+../instances/heur/heur077.gr 21675 0 620 620
+../instances/heur/heur079.gr 47353 0 620 620
+../instances/heur/heur081.gr 10504 0 871 761
+../instances/heur/heur083.gr 22659 0 871 865
+../instances/heur/heur085.gr 48900 0 871 871
+../instances/heur/heur087.gr 3524 0 885 574
+../instances/heur/heur089.gr 2697 0 885 762
+../instances/heur/heur091.gr 32174 0 926 854
+../instances/heur/heur093.gr 48197 0 926 926
+../instances/heur/heur095.gr 7942 0 1051 759
+../instances/heur/heur097.gr 6762 0 1051 1021
+../instances/heur/heur099.gr 28015 0 1190 1157
+../instances/heur/heur101.gr 49360 0 1190 1190
+../instances/heur/heur103.gr 19882 0 1292 1153
+../instances/heur/heur105.gr 60338 0 1292 1292
+../instances/heur/heur107.gr 6970 0 1345 1092
+../instances/heur/heur109.gr 32505 0 1345 1244
+../instances/heur/heur111.gr 92276 0 1345 1345
+../instances/heur/heur113.gr 17016 0 1386 1315
+../instances/heur/heur115.gr 41327 0 1386 1386
+../instances/heur/heur117.gr 14910 0 2054 1806
+../instances/heur/heur119.gr 35881 0 2054 2054
+../instances/heur/heur121.gr 110340 0 2054 2054
+../instances/heur/heur123.gr 26040 0 2362 2357
+../instances/heur/heur125.gr 64605 0 2362 2362
+../instances/heur/heur127.gr 27959 0 2831 2506
+../instances/heur/heur129.gr 704803 0 2831 2831
+../instances/heur/heur131.gr 1021507 0 2831 2831
+../instances/heur/heur133.gr TLE
+../instances/heur/heur135.gr 40470 0 2912 2552
+../instances/heur/heur137.gr 736351 0 2912 2912
+../instances/heur/heur139.gr 1456840 0 2912 2912
+../instances/heur/heur141.gr 5591 0 2936 710
+../instances/heur/heur143.gr 239219 0 2936 2936
+../instances/heur/heur145.gr 1702680 0 2936 2936
+../instances/heur/heur147.gr 184797 0 2936 2936
+../instances/heur/heur149.gr 10168 0 2939 875
+../instances/heur/heur151.gr 69686 0 2939 2675
+../instances/heur/heur153.gr 258197 0 2939 2939
+../instances/heur/heur155.gr 751684 0 2939 2939
+../instances/heur/heur157.gr 1194441 0 2939 2939
+../instances/heur/heur159.gr 1352022 0 2939 2939
+../instances/heur/heur161.gr 22268 0 2939 2939
+../instances/heur/heur163.gr 81265 0 3387 3212
+../instances/heur/heur165.gr 517901 0 3387 3387
+../instances/heur/heur167.gr 9657 0 5242 4623
+../instances/heur/heur169.gr 13489 0 6474 6474
+../instances/heur/heur171.gr 38924 0 8717 8717
+../instances/heur/heur173.gr 24595 0 9877 9090
+../instances/heur/heur175.gr 85079 0 12008 11453
+../instances/heur/heur177.gr TLE
+../instances/heur/heur179.gr TLE
+../instances/heur/heur181.gr TLE
+../instances/heur/heur183.gr TLE
+../instances/heur/heur185.gr TLE
+../instances/heur/heur187.gr TLE
+../instances/heur/heur189.gr TLE
+../instances/heur/heur191.gr TLE
+../instances/heur/heur193.gr TLE
+../instances/heur/heur195.gr TLE
+../instances/heur/heur197.gr TLE
+../instances/heur/heur199.gr TLE

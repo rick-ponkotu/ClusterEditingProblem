@@ -1,0 +1,205 @@
+../instances/exact/exact001.gr 3 0 10 10 7.1e-05
+../instances/exact/exact003.gr 56 0 20 20 0.000169
+../instances/exact/exact005.gr 58 1 20 20 0.000272
+../instances/exact/exact007.gr 118 0 30 30 0.000289
+../instances/exact/exact009.gr 119 0 30 30 0.000296
+../instances/exact/exact011.gr 97 0 30 30 0.000279
+../instances/exact/exact013.gr 271 0 40 40 0.000459
+../instances/exact/exact015.gr 249 0 40 40 0.000443
+../instances/exact/exact017.gr 357 0 50 50 0.000613
+../instances/exact/exact019.gr 388 0 50 50 0.000609
+../instances/exact/exact021.gr 470 0 50 50 0.000619
+../instances/exact/exact023.gr 451 0 60 60 0.000863
+../instances/exact/exact025.gr 616 0 60 60 0.0009
+../instances/exact/exact027.gr 508 0 70 70 0.001131
+../instances/exact/exact029.gr 767 0 70 70 0.001216
+../instances/exact/exact031.gr 427 0 70 70 0.001118
+../instances/exact/exact033.gr 1190 0 80 80 0.001569
+../instances/exact/exact035.gr 659 0 80 80 0.001836
+../instances/exact/exact037.gr 990 0 90 90 0.001922
+../instances/exact/exact039.gr 1050 0 90 90 0.001969
+../instances/exact/exact041.gr 503 0 90 90 0.001812
+../instances/exact/exact043.gr 1330 0 100 100 0.002527
+../instances/exact/exact045.gr 1749 0 100 100 0.00266
+../instances/exact/exact047.gr 870 0 100 100 0.002546
+../instances/exact/exact049.gr 1301 0 113 113 0.00316
+../instances/exact/exact051.gr 2090 0 120 120 0.005464
+../instances/exact/exact053.gr 2165 0 120 120 0.004691
+../instances/exact/exact055.gr 2874 0 120 120 0.004469
+../instances/exact/exact057.gr 165 0 121 121 0.00216
+../instances/exact/exact059.gr 1817 1 121 121 0.003301
+../instances/exact/exact061.gr 194 2 129 129 0.002318
+../instances/exact/exact063.gr 702 0 129 129 0.002925
+../instances/exact/exact065.gr 144 0 129 129 0.004921
+../instances/exact/exact067.gr 1322 0 139 139 0.003708
+../instances/exact/exact069.gr 3081 0 140 140 0.006197
+../instances/exact/exact071.gr 3556 0 140 140 0.006422
+../instances/exact/exact073.gr 3825 0 140 140 0.00607
+../instances/exact/exact075.gr 157 1 144 144 0.00361
+../instances/exact/exact077.gr 87 41 144 144 0.004167
+../instances/exact/exact079.gr 78 0 159 159 0.004264
+../instances/exact/exact081.gr 2524 0 159 159 0.007792
+../instances/exact/exact083.gr 4220 0 160 160 0.008836
+../instances/exact/exact085.gr 2448 0 160 160 0.00738
+../instances/exact/exact087.gr 3354 0 160 160 0.008822
+../instances/exact/exact089.gr 1000 1 171 171 0.006616
+../instances/exact/exact091.gr 4662 0 180 180 0.010822
+../instances/exact/exact093.gr 5697 0 180 180 0.012056
+../instances/exact/exact095.gr 1329 0 180 180 0.008975
+../instances/exact/exact097.gr 161 1 184 184 0.006195
+../instances/exact/exact099.gr 1009 2 184 184 0.007863
+../instances/exact/exact101.gr 5775 0 200 200 0.017466
+../instances/exact/exact103.gr 7277 0 200 200 0.015446
+../instances/exact/exact105.gr 7510 0 200 200 0.016736
+../instances/exact/exact107.gr 356 1 204 204 0.007068
+../instances/exact/exact109.gr 4140 0 204 204 0.009513
+../instances/exact/exact111.gr 3196 0 204 204 0.009363
+../instances/exact/exact113.gr 1129 0 204 204 0.014843
+../instances/exact/exact115.gr 415 0 211 211 0.009199
+../instances/exact/exact117.gr 5176 1 211 211 0.010192
+../instances/exact/exact119.gr 786 0 213 213 0.008847
+../instances/exact/exact121.gr 1074 1 213 213 0.01096
+../instances/exact/exact123.gr 967 0 215 211 0.010007
+../instances/exact/exact125.gr 2106 0 215 215 0.01505
+../instances/exact/exact127.gr 136 0 216 216 0.010707
+../instances/exact/exact129.gr 2933 3 216 216 0.010659
+../instances/exact/exact131.gr 602 4 221 221 0.010653
+../instances/exact/exact133.gr 8350 0 221 221 0.022489
+../instances/exact/exact135.gr 869 2 232 232 0.013274
+../instances/exact/exact137.gr 37 0 232 232 0.013447
+../instances/exact/exact139.gr 14217 0 232 232 0.021864
+../instances/exact/exact141.gr 1064 0 250 250 0.015204
+../instances/exact/exact143.gr 2292 0 250 250 0.016376
+../instances/exact/exact145.gr 2340 0 250 250 0.019198
+../instances/exact/exact147.gr 8998 0 250 250 0.023137
+../instances/exact/exact149.gr 9342 0 250 250 0.026914
+../instances/exact/exact151.gr 1258 0 250 250 0.026086
+../instances/exact/exact153.gr 6 6 250 250 0.014523
+../instances/exact/exact155.gr 72 4 263 263 0.015341
+../instances/exact/exact157.gr 1812 0 263 263 0.018284
+../instances/exact/exact159.gr 10756 0 263 263 0.028812
+../instances/exact/exact161.gr 609 4 279 279 0.020183
+../instances/exact/exact163.gr 2985 24 279 279 0.022431
+../instances/exact/exact165.gr 7638 0 279 279 0.035641
+../instances/exact/exact167.gr 14893 0 300 300 0.043695
+../instances/exact/exact169.gr 13640 0 300 300 0.044722
+../instances/exact/exact171.gr 4180 0 300 300 0.042767
+../instances/exact/exact173.gr 131 0 313 313 0.024721
+../instances/exact/exact175.gr 1024 0 313 313 0.028206
+../instances/exact/exact177.gr 6219 0 313 313 0.040389
+../instances/exact/exact179.gr 947 0 330 330 0.028591
+../instances/exact/exact181.gr 2219 0 330 330 0.034744
+../instances/exact/exact183.gr 3649 0 330 330 0.036118
+../instances/exact/exact185.gr 299 1 347 347 0.030827
+../instances/exact/exact187.gr 5286 0 347 347 0.037473
+../instances/exact/exact189.gr 10567 0 347 347 0.063012
+../instances/exact/exact191.gr 24794 0 400 400 0.094258
+../instances/exact/exact193.gr 27848 0 400 400 0.102478
+../instances/exact/exact195.gr 3633 0 620 620 0.155101
+../instances/exact/exact197.gr 25848 0 620 620 0.248523
+../instances/exact/exact199.gr 51482 0 620 620 0.336253
+
+
+
+
+
+../instances/exact/exact001.gr 3 0 10 9 7.7e-05
+../instances/exact/exact003.gr 56 0 20 20 0.000141
+run_reduction.sh: 5 行: 19987 Segmentation fault: 11  ..//codes/clusteredit -i ${i} -r
+../instances/exact/exact007.gr 118 0 30 30 0.000226
+../instances/exact/exact009.gr 119 0 30 30 0.000231
+../instances/exact/exact011.gr 97 0 30 30 0.000256
+../instances/exact/exact013.gr 271 0 40 40 0.000409
+../instances/exact/exact015.gr 249 0 40 40 0.00041
+../instances/exact/exact017.gr 357 0 50 50 0.000584
+../instances/exact/exact019.gr 388 0 50 50 0.000592
+../instances/exact/exact021.gr 470 0 50 50 0.000635
+../instances/exact/exact023.gr 451 0 60 60 0.000852
+../instances/exact/exact025.gr 616 0 60 60 0.000866
+../instances/exact/exact027.gr 508 0 70 70 0.001226
+../instances/exact/exact029.gr 767 0 70 70 0.001347
+../instances/exact/exact031.gr 427 0 70 70 0.001073
+../instances/exact/exact033.gr 1190 0 80 80 0.00169
+../instances/exact/exact035.gr 659 0 80 80 0.001673
+../instances/exact/exact037.gr 990 0 90 90 0.001986
+../instances/exact/exact039.gr 1050 0 90 90 0.002153
+../instances/exact/exact041.gr 503 0 90 90 0.001843
+../instances/exact/exact043.gr 1330 0 100 100 0.002714
+../instances/exact/exact045.gr 1749 0 100 100 0.00262
+../instances/exact/exact047.gr 870 0 100 100 0.00255
+../instances/exact/exact049.gr 1301 0 113 113 0.003242
+../instances/exact/exact051.gr 2090 0 120 120 0.004222
+../instances/exact/exact053.gr 2165 0 120 120 0.003999
+../instances/exact/exact055.gr 2874 0 120 120 0.004422
+../instances/exact/exact057.gr 165 0 121 119 0.00211
+run_reduction.sh: 5 行: 20019 Segmentation fault: 11  ..//codes/clusteredit -i ${i} -r
+run_reduction.sh: 5 行: 20021 Segmentation fault: 11  ..//codes/clusteredit -i ${i} -r
+../instances/exact/exact063.gr 702 0 129 128 0.002756
+../instances/exact/exact065.gr 144 0 129 129 0.004626
+../instances/exact/exact067.gr 1322 0 139 138 0.003258
+../instances/exact/exact069.gr 3081 0 140 140 0.006104
+../instances/exact/exact071.gr 3556 0 140 140 0.005937
+../instances/exact/exact073.gr 3825 0 140 140 0.005652
+run_reduction.sh: 5 行: 20029 Segmentation fault: 11  ..//codes/clusteredit -i ${i} -r
+run_reduction.sh: 5 行: 20030 Segmentation fault: 11  ..//codes/clusteredit -i ${i} -r
+../instances/exact/exact079.gr 78 0 159 157 0.003734
+../instances/exact/exact081.gr 2524 0 159 159 0.007317
+../instances/exact/exact083.gr 4220 0 160 160 0.008536
+../instances/exact/exact085.gr 2448 0 160 160 0.006613
+../instances/exact/exact087.gr 3354 0 160 160 0.008646
+run_reduction.sh: 5 行: 20037 Segmentation fault: 11  ..//codes/clusteredit -i ${i} -r
+../instances/exact/exact091.gr 4662 0 180 180 0.010221
+../instances/exact/exact093.gr 5697 0 180 180 0.011772
+../instances/exact/exact095.gr 1329 0 180 180 0.00858
+run_reduction.sh: 5 行: 20042 Segmentation fault: 11  ..//codes/clusteredit -i ${i} -r
+run_reduction.sh: 5 行: 20043 Segmentation fault: 11  ..//codes/clusteredit -i ${i} -r
+../instances/exact/exact101.gr 5775 0 200 200 0.01452
+../instances/exact/exact103.gr 7277 0 200 200 0.015031
+../instances/exact/exact105.gr 7510 0 200 200 0.0155
+run_reduction.sh: 5 行: 20048 Segmentation fault: 11  ..//codes/clusteredit -i ${i} -r
+../instances/exact/exact109.gr 4140 0 204 192 0.00938
+../instances/exact/exact111.gr 3196 0 204 200 0.009562
+../instances/exact/exact113.gr 1129 0 204 204 0.013386
+../instances/exact/exact115.gr 415 0 211 208 0.008589
+run_reduction.sh: 5 行: 20054 Segmentation fault: 11  ..//codes/clusteredit -i ${i} -r
+../instances/exact/exact119.gr 786 0 213 194 0.009914
+run_reduction.sh: 5 行: 20057 Segmentation fault: 11  ..//codes/clusteredit -i ${i} -r
+../instances/exact/exact123.gr 967 0 215 211 0.008701
+../instances/exact/exact125.gr 2106 0 215 215 0.014007
+../instances/exact/exact127.gr 136 0 216 210 0.009034
+run_reduction.sh: 5 行: 20061 Segmentation fault: 11  ..//codes/clusteredit -i ${i} -r
+run_reduction.sh: 5 行: 20063 Segmentation fault: 11  ..//codes/clusteredit -i ${i} -r
+../instances/exact/exact133.gr 8350 0 221 221 0.019464
+run_reduction.sh: 5 行: 20065 Segmentation fault: 11  ..//codes/clusteredit -i ${i} -r
+../instances/exact/exact137.gr 37 0 232 225 0.011548
+../instances/exact/exact139.gr 14217 0 232 232 0.01915
+../instances/exact/exact141.gr 1064 0 250 249 0.012521
+../instances/exact/exact143.gr 2292 0 250 249 0.015071
+../instances/exact/exact145.gr 2340 0 250 250 0.017556
+../instances/exact/exact147.gr 8998 0 250 250 0.021237
+../instances/exact/exact149.gr 9342 0 250 250 0.024402
+../instances/exact/exact151.gr 1258 0 250 250 0.022917
+../instances/exact/exact153.gr 6 6 250 0 0.027337
+run_reduction.sh: 5 行: 20077 Segmentation fault: 11  ..//codes/clusteredit -i ${i} -r
+../instances/exact/exact157.gr 1812 0 263 262 0.015606
+../instances/exact/exact159.gr 10756 0 263 263 0.025804
+run_reduction.sh: 5 行: 20082 Segmentation fault: 11  ..//codes/clusteredit -i ${i} -r
+run_reduction.sh: 5 行: 20083 Segmentation fault: 11  ..//codes/clusteredit -i ${i} -r
+../instances/exact/exact165.gr 7638 0 279 279 0.035539
+../instances/exact/exact167.gr 14893 0 300 300 0.039702
+../instances/exact/exact169.gr 13640 0 300 300 0.038966
+../instances/exact/exact171.gr 4180 0 300 300 0.03626
+../instances/exact/exact173.gr 131 0 313 311 0.020171
+../instances/exact/exact175.gr 1024 0 313 311 0.023729
+../instances/exact/exact177.gr 6219 0 313 313 0.038093
+../instances/exact/exact179.gr 947 0 330 328 0.024474
+../instances/exact/exact181.gr 2219 0 330 330 0.030502
+../instances/exact/exact183.gr 3649 0 330 330 0.030934
+run_reduction.sh: 5 行: 20096 Segmentation fault: 11  ..//codes/clusteredit -i ${i} -r
+../instances/exact/exact187.gr 5286 0 347 325 0.037509
+../instances/exact/exact189.gr 10567 0 347 347 0.058776
+../instances/exact/exact191.gr 24794 0 400 400 0.086408
+../instances/exact/exact193.gr 27848 0 400 400 0.094489
+../instances/exact/exact195.gr 3633 0 620 619 0.125583
+../instances/exact/exact197.gr 25848 0 620 620 0.199232
+../instances/exact/exact199.gr 51482 0 620 620 0.285586

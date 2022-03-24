@@ -1,0 +1,18 @@
+graph g{
+    layout = dot
+//    layout = fdp
+//    layout = neato
+//    layout = osage
+//    layout = sfdp
+//    layout = twopi
+u [shape=circle];
+v [shape=circle];
+w [shape=circle];
+x [shape=circle];
+
+u -- v [label = "1"];
+v -- w [label = "-1", style = dotted];
+u -- w [label = "2"];
+u -- x [label = "3"];
+v -- x [label = "-∞", style = dotted];
+}
